@@ -1,4 +1,89 @@
-/*background
-/*text
-/*boxes
-/*font
+/*background*/
+/*text*/
+/*boxes*/
+/*font*/
+
+:root {
+    --green: #ACE894;
+    --gray: #6B6570;
+    --purple: #4A314D;
+    --black: #1A090D;
+}
+
+body {
+    display: block;
+    margin: 30px;
+    background-color: var(--purple);
+    color: var(--black)
+}
+
+aside {
+    font-size: 20px;
+    background-color: var(--green);
+    border: 1px solid var(--black);
+    border-radius: 8px;
+    box-shadow: var(--gray) 0 1px 2px 0, var(--gray) 0 2px 4px 3px;
+    margin: 40px 20px 20px 20px;
+    padding: 10px;
+    width: 10vw;
+    float: left;
+}
+
+button {
+    padding: 10px;
+    margin: 24px;
+    cursor: pointer;
+    font-size: 24px;
+    border-radius: 18px;
+    background-color: var(--green);
+    color: var(--gray);
+}
+
+p {
+    style
+}
+
+.timer {
+    place
+}
+
+.container {
+    display: block;
+    margin: 100px;
+    text-align: center;
+    border-style: outset;
+    border-radius: 8px;
+    width: fit-content;
+    background-color: var(--green);
+}
+
+.card-contents {
+    padding: 5px 5px;
+}
+
+.start {
+    style and disappear
+}
+
+.question {
+    in box, change with next
+}
+
+.answer {
+    multiple, correct option, change with next
+}
+
+.next {
+    style, continues quiz
+}
+
+.card {
+    background-color: var(--green);
+    border: 1px solid var(--black);
+    border-radius: 8px;
+    box-shadow: var(--gray) 0 1px 2px 0, var(--gray) 0 2px 4px 3px;
+    margin: 40px 20px;
+    padding: 10px;
+    width: 20vw;
+    float: left;
+}
