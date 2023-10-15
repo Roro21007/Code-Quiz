@@ -35,6 +35,7 @@ button {
     cursor: pointer;
     font-size: 24px;
     border-radius: 18px;
+    /*on left*/
     background-color: var(--green);
     color: var(--gray);
 }
@@ -53,7 +54,7 @@ p {
     text-align: center;
     border-style: outset;
     border-radius: 8px;
-    width: fit-content;
+    width: 100vh;
     background-color: var(--green);
 }
 
