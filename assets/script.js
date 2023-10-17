@@ -14,7 +14,7 @@ var timerEl = document.querySelector("#timer");
 
 var score = 0;
 
-var secondsLeft = 300;
+var secondsLeft = 90;
 
 var startEl = document.querySelector("#start");
 

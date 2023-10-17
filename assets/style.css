@@ -41,11 +41,11 @@ button {
 }
 
 p {
-    style
+    /*style*/
 }
 
 .timer {
-    place
+    /*place*/
 }
 
 .container {
@@ -63,19 +63,19 @@ p {
 }
 
 .start {
-    style and disappear
+    /*style and disappear*/
 }
 
 .question {
-    in box, change with next
+    /*in box, change with next*/
 }
 
 .answer {
-    multiple, correct option, change with next
+   /*multiple, correct option, change with next*/
 }
 
 .next {
-    style, continues quiz
+    /*style, continues quiz*/
 }
 
 .card {

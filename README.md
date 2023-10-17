@@ -2,25 +2,14 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To be able to show ability to use javascript to target html. To show culmination of javascript and css effects. Learned where and when to use specific elements.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Start button begins quiz and starts time, next button moves next question, correct answer moves next question, incorrect answer moves next question and subtracts time, when complete able to enter initials for scoreboard.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
+https://roro21007.github.io/Code-Quiz/
+    [Code Quiz] (./assets/images/CQ.png)
     ```
 
 ## License
